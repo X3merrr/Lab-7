@@ -25,11 +25,11 @@ JavaScript — мультипарадигменный язык программ�
 
 <h1 align = "center">Цели и задачи</h1>
 Повторить по образцу, то есть сделать такой же макет используя материалы из архива lab7.zip<br>
-<image src = "https://github.com/X3merrr/Lab-2/blob/main/Resh.PNG"></image>
+<image src = "https://github.com/X3merrr/Lab-7/blob/main/1.png"></image>
 
 
 <h1 align = "center">Решение задач</h1>
-<image src = "https://github.com/X3merrr/Lab-2/blob/main/Resh.PNG"></image>
+<image src = "https://github.com/X3merrr/Lab-7/blob/main/Resh.PNG"></image>
 
 <h1 align = "center">Вывод</h1>
 <p>При выполнении этой лабораторной работы, я научился работать языком текстовой разметки HTML и CSS</p>
